@@ -19,5 +19,8 @@ CapsuleとCylinderが選択した面に対して平行に設置されてしま�
 どんな色が選択されているかわかるようにスライダーの上にイメージを設置。
 形状を選んぶボタンが選択されているとき暗めの色になるようにしてどれが選ばれているかわかりやすくする。
 
+プレイ動画  
+https://drive.google.com/file/d/16jYIPtVgt8Wqb1gZkIoM9eh8gKKUVJxT/view?usp=sharing
+
 参考にしたサイト
 [1]https://vracademy.jp/development/ar-foundation-introduction/
